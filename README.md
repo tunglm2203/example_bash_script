@@ -1,2 +1,4 @@
 # example_bash_script
-Bash script examples: get options from command line, nested if-else conditional
+Bash script examples contain:
+- Get options from command line
+- Nested if-else condition
