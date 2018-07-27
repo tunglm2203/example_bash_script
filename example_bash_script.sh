@@ -43,3 +43,26 @@ then
 else
     echo "[Double-Q] Not support mode."
 fi
+
+
+# Basic for loop
+names='Stan Kyle Cartman'
+for name in $names
+do
+     echo $name
+done
+
+# Basic range in for loop
+for value in {1..5}
+do
+     echo $value
+done
+
+# Basic range with steps for loop
+for value in {10..0..2}
+do
+     echo $value
+done
+
+
+
